@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#lighthouse">Lighthouse</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#structure">Structure</a> •
@@ -39,7 +40,12 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/saas/blob/master/saasVueThemes.gif)
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/saas">
+  <img width=60% src="https://github.com/vuethemes/saas/blob/master/saasVueThemes.gif" alt="SaaS Preview"></a> <br>
+  <br>
+</p>
 
 
 ## ✅&nbsp; Key Features
@@ -47,6 +53,7 @@
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
 * Optimized with clean code and organized structure
+* 90+ Lighthouse Scores!
 * Embed YouTube videos with ease
 * Customizable data loop animation for changing hero text 
 * Full-width imagery 
@@ -62,6 +69,17 @@
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
   - Reach out any time we are here to help! 
+
+
+## 🏆&nbsp; Lighthouse 
+
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/saas">
+     <img width=60% src="https://github.com/vuethemes/saas/blob/master/saasLighthouseScreenshot.png" alt="SaaS Lighthouse Score screenshot"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/saas/blob/master/saasLighthouse.gif" alt="SaaS Lighthouse Score gif"></a> <br>
+  <br>
+</p>
 
 
 ## 🚀&nbsp; How To Use
