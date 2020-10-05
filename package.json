@@ -1,6 +1,6 @@
 {
   "name": "saas-vue-theme",
-  "description": "A modern Vue.js boilerplate for saas startup website development",
+  "description": "A modern Vue.js template for saas startup website development",
   "version": "1.1.1",
   "homepage": "https://saas.vuethemes.org",
   "author": {
@@ -17,13 +17,16 @@
   },
   "keywords": [
     "vue",
+    "vuejs",
+    "vuethemes",
+    "tailwind",
     "tailwindcss",
     "javascript",
     "frontend",
     "saas",
     "theme",
-    "static",
-    "boilerplate"
+    "boilerplate",
+    "template"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",

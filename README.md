@@ -191,7 +191,7 @@ You can reach out to us anytime for support! We are happy to help [yourfriends@v
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
 
-Feel free to file a new issue with a respective title and description on the [vuethemes/saas repository](https://github.com/vuethemes/ace/issues). If you already found a solution to your problem, we would love to checkout your code!
+Feel free to file an [issue](https://github.com/vuethemes/saas/issues). If you'd like a custom feature built, send us a message [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/).
 
 ## 📘&nbsp; License
 
