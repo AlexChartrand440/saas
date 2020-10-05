@@ -27,7 +27,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#lighthouse">Lighthouse</a> •
@@ -47,31 +46,29 @@
   <br>
 </p>
 
-
 ## ✅&nbsp; Key Features
 
-* Hot Reload - Make changes, See changes
+- Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
-* Optimized with clean code and organized structure
-* 90+ Lighthouse Scores!
-* Embed YouTube videos with ease
-* Customizable data loop animation for changing hero text 
-* Full-width imagery 
-* Uses Tailwind CSS a highly customizable CSS framework
-* Vue Meta plugin for search engine optimization  
-* Free stock photos by Unsplash
-* Easily add/update/modify components and content
-* Fully responsive and fast Lighthouse scores
-* Component driven development 
-* Uses PostCSS for increased code readability
-* Simple one click deployments to any CDN including Vercel/Netlify
-* Free updates  
+- Optimized with clean code and organized structure
+- 90+ Lighthouse Scores!
+- Embed YouTube videos with ease
+- Customizable data loop animation for changing hero text
+- Full-width imagery
+- Uses Tailwind CSS a highly customizable CSS framework
+- Vue Meta plugin for search engine optimization
+- Free stock photos by Unsplash
+- Easily add/update/modify components and content
+- Fully responsive and fast Lighthouse scores
+- Component driven development
+- Uses PostCSS for increased code readability
+- Simple one click deployments to any CDN including Vercel/Netlify
+- Free updates
   - Get access to the first version today, plus new updates until we're out of ideas.
-* World class support by us! 
-  - Reach out any time we are here to help! 
+- World class support by us!
+  - Reach out any time we are here to help!
 
-
-## 🏆&nbsp; Lighthouse 
+## 🏆&nbsp; Lighthouse
 
 <p align="center">
   <br>
@@ -80,7 +77,6 @@
   <img width=60% src="https://github.com/vuethemes/saas/blob/master/saasLighthouse.gif" alt="SaaS Lighthouse Score gif"></a> <br>
   <br>
 </p>
-
 
 ## 🚀&nbsp; How To Use
 
@@ -103,11 +99,9 @@ $ npm run build
 $ npm run lint
 ```
 
-
 ## 💻&nbsp; Download
 
 Here is where you can [download](https://vuethemes.org/theme/saas) the latest installable version of SaaS.
-
 
 ## 🌲&nbsp; Structure
 
@@ -181,7 +175,6 @@ We've tried our best to develop this theme using a logical component driven stru
 ┣ tailwind.config.js
 </pre>
 
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
@@ -192,22 +185,18 @@ This software uses the following open source packages:
 - [Babel](https://babeljs.io/)
 - [PostCSS](https://postcss.org/)
 
-
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
 You can reach out to us anytime for support! We are happy to help [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org).
 
-
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
 
-Feel free to file a new issue with a respective title and description on the vuethemes/saas repository. If you already found a solution to your problem, we would love to checkout your code! 
-
+Feel free to file a new issue with a respective title and description on the [vuethemes/saas repository](https://github.com/vuethemes/ace/issues). If you already found a solution to your problem, we would love to checkout your code!
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. For more license information visit [our website](https://vuethemes.org/).
-
+You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
-Love building with Vue.js? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful Vue.js website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing! 
+Love building with Vue.js? A big part of what makes Vue Themes great is each and every one of you in the community. Your contributions enrich the Vue Themes experience and make it better every day. We welcome all contributions from you in the community, and would be thrilled to amplify your voice. Contributions are not limited to code, and can take all shapes and forms: Your wonderful Vue.js website, starter, UI components, blog posts and anything else you can think of! Please submit your name and submission info ex. GitHub repository/post/content url to [yourfriends@vuethemes.org](mailto:yourfriends@vuethemes.org/) with the subject line: “VUE THEMES SUBMISSION”. Feel free to reach out to us if you have any questions about contributing!

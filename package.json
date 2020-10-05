@@ -1,0 +1,77 @@
+{
+  "name": "saas-vue-theme",
+  "description": "A modern Vue.js boilerplate for saas startup website development",
+  "version": "1.1.1",
+  "homepage": "https://saas.vuethemes.org",
+  "author": {
+    "name": "Vue Themes",
+    "url": "https://vuethemes.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuethemes/saas.git"
+  },
+  "license": "https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz",
+  "bugs": {
+    "url": "https://github.com/vuethemes/saas/issues"
+  },
+  "keywords": [
+    "vue",
+    "tailwindcss",
+    "javascript",
+    "frontend",
+    "saas",
+    "theme",
+    "static",
+    "boilerplate"
+  ],
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-bulma-accordion": "^0.5.2",
+    "vue-icon": "^2.1.2",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.3.4",
+    "vue-slick": "^1.1.15",
+    "vue-typer": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
