@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">SaaS is a modern landing page theme built with Vue.js and Tailwind CSS. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development. Have a look at the official Vue Themes website for a comprehensive list of Vue Themes, features, core values and use cases.</h4>
+<h4 align="center">Impress your customers using SaaS, a professional Vue theme, designed with reusable Tailwind CSS components that are practical and easy to customize. ✨&nbsp; We made it easy to start taking action with organized directory structure and component driven development.  Like what you see? Visit <a href="https://vuethemes.org"> our website</a> for a curated showcase of awesome community starters, boilerplates, templates as well as free and premium themes. </h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/">
